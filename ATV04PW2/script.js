@@ -49,7 +49,7 @@ function buscarLivrosPorGenero(genero) {
 function listarLivros(){
 //Função que retorna o Array de livros cadastrados.
 //Apenas lista o Array titulos_livros.
-    console.log(titulos_livros)
+    console.log(`Temos os seguintes temas disponiveis: ${titulos_livros}`)
 }
 //funciona
 
